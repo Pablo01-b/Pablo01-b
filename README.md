@@ -3,8 +3,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-bruci-406a6a264/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablobrucipb@gmail.com)
 
-![Pablo Bruci GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablo01-b&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo01-b&layout=compact)
 
 ## Desenvolvendo Habilidades nas Tecnologias:
